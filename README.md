@@ -51,3 +51,7 @@ Ao realizar o cálculo da taxa por 100 mil mulheres, o cenário se inverteu, ref
 Apesar de São Paulo ter registrado a maior população feminina e o maior número absoluto de vítimas em 2022, foi o estado com a menor taxa de criminalidade relativa (1.82) entre os três comparados.
 
 Isso nos leva à conclusão de que, ao considerar apenas os números absolutos, podemos chegar a análises equivocadas e distorcidas da realidade. É fundamental utilizar indicadores proporcionais para orientar a implementação de ações governamentais eficazes.
+
+## **Agradecimentos**
+
+Agradecemos à professora Aruane Mello Pineda pela orientação e incentivo, e à instituição SENAI Suíço-Brasileira Paulo Ernesto Torre pelo apoio e estrutura para a pesquisa.
