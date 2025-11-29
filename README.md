@@ -39,11 +39,15 @@ Ao analisar o número absoluto de vítimas femininas em 2022, a ordem de ocorrê
 - Rio de Janeiro (RJ): 290 ocorrências.
 - Minas Gerais (MG): 276 ocorrências.
 
+  <img width="464" height="286" alt="image" src="https://github.com/user-attachments/assets/d58c5daf-b203-40fc-b1d9-c386d58c33b4" />
+
 ## **Taxa de Criminalidade Proporcional**
 Ao realizar o cálculo da taxa por 100 mil mulheres, o cenário se inverteu, refutando a hipótese inicial:
 - Rio de Janeiro (RJ): Taxa de 3.21 por 100 mil mulheres.
 - Minas Gerais (MG): Taxa de 2.56 por 100 mil mulheres.
 - São Paulo (SP): Taxa de 1.82 por 100 mil mulheres.
+
+  <img width="424" height="239" alt="image" src="https://github.com/user-attachments/assets/aabe660f-9743-4ee6-b455-d7ee25052e5f" />
 
 ## **Conclusão**
 **A hipótese inicial foi refutada.**
