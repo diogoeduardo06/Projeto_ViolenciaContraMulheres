@@ -62,6 +62,6 @@ Agradecemos à professora Aruane Mello Pineda pela orientação e incentivo, e �
 
 # **II CONGRESSO INTERNACIONAL DE INOVAÇÃO E PESQUISA**
 
-O artigo foi enviado para um congresso de tecnologia e pesquisa, no qual foi aceito. Mostrando assim a credibilidade e resultados de um ótimo trabalho feito.
+O artigo foi enviado para um congresso de tecnologia e pesquisa, no qual foi aceito. Mostrando assim a credibilidade e resultados do trabalho feito.
 
 <img width="937" height="657" alt="image" src="https://github.com/user-attachments/assets/e57807e6-cd26-41f9-839d-e52edf276b5b" />
